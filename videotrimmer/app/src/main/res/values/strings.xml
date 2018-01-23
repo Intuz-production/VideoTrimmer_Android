@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoTrimmer</string>
+    <string name="upload">Upload</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_video_text">Select 1 min video</string>
+    <string name="video_length_validation">Video should be of minimum 3 seconds</string>
+    <string name="app_provider">com.demo.videotrimmer.provider</string>
+</resources>
