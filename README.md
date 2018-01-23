@@ -55,13 +55,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <br/><br/>
-**<h1>Acknowledgments</h1>**
-We used below library to complete this feature
-
+<h1>Acknowledgments</h1>
 <a href="https://github.com/titansgroup/k4l-video-trimmer">k4l-video-trimmer</a>
 
 <br/>
-**<h1></h1>**
+<h1></h1>
 <a href="https://www.intuz.com/" target="_blank"><img src="Screenshots/logo.jpg"></a>
 
 
