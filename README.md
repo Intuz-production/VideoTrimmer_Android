@@ -1,4 +1,9 @@
-**<h1>Introduction</h1>**
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [Android app development](https://www.intuz.com/android-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
+
+
 INTUZ is presenting an interesting Video Editing Control to integrate inside your Android based application. 
 Video Trimmer is a simple component, which lets you trim your videos files on the fly. You can see preview video before trimming your selected video.
 Please follow the below steps to integrate this control in your next project.
